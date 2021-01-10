@@ -148,6 +148,7 @@
 		DE9BE9CF259A0E04000E94B0 /* Storyboard */ = {
 			isa = PBXGroup;
 			children = (
+				DE9CDBED25A9A07B00615EF3 /* MediaPlayerUI */,
 				DE607BDE25950C2800D9B867 /* LaunchScreen.storyboard */,
 				DE607BD925950C2500D9B867 /* Main.storyboard */,
 			);
@@ -177,6 +178,7 @@
 		DE9BE9DB259A0EF1000E94B0 /* ViewController */ = {
 			isa = PBXGroup;
 			children = (
+				DE9CDBEE25A9A09500615EF3 /* MediaPlayerUI */,
 				DE607BD725950C2500D9B867 /* MainViewController.swift */,
 			);
 			path = ViewController;
@@ -211,6 +213,20 @@
 				DE9BEA0D259A13A1000E94B0 /* UILabelDecorator.swift */,
 			);
 			path = Modules;
+			sourceTree = "<group>";
+		};
+		DE9CDBED25A9A07B00615EF3 /* MediaPlayerUI */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = MediaPlayerUI;
+			sourceTree = "<group>";
+		};
+		DE9CDBEE25A9A09500615EF3 /* MediaPlayerUI */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = MediaPlayerUI;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
